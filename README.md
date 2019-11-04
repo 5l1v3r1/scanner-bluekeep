@@ -8,4 +8,4 @@ docker run --rm mdiazcl/scanner-bluekeep <direccion_ip>
 ```
 
 # Ejemplos:
--- pendiente --
+![example.png]
